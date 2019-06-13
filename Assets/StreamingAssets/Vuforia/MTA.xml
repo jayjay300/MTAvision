@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sq" size="1.000000 1.121287" />
+    <ImageTarget name="Square" size="1.000000 0.394599" />
+    <ImageTarget name="Subway" size="1.000000 0.394599" />
+    <ImageTarget name="St" size="1.000000 0.975242" />
+    <ImageTarget name="Blvd" size="1.000000 0.457114" />
+    <ImageTarget name="Center" size="1.000000 0.457114" />
+    <ImageTarget name="Street" size="1.000000 0.457114" />
+    <ImageTarget name="station" size="1.000000 0.457114" />
+    <ImageTarget name="IMG-7607" size="1.000000 0.556641" />
+  </Tracking>
+</QCARConfig>
